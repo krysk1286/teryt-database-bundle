@@ -1,5 +1,5 @@
 {
-    "name": "fsi/teryt-database-bundle",
+    "name": "krysk1286/teryt-database-bundle",
     "type": "symfony-bundle",
     "description": "Teryt database bundle",
     "keywords": ["teryt", "bundle", "symfony", "fsi"],
